@@ -43,6 +43,6 @@ dataset.csv
    pip install pandas scikit-learn nltk matplotlib seaborn textblob
 
 2. Run the notebook:
-   sentiment_analysis.ipynb
+   textanalyser.ipynb
 
 3. Ensure dataset.csv is in the same folder
