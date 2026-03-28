@@ -77,10 +77,10 @@ dataset.csv
    pip install pandas scikit-learn nltk matplotlib seaborn textblob
 
 2. Run Resume Extractor:
-   python resume_extractor.py
+   python resume.py
 
 3. Run Sentiment Analysis:
-   Open sentiment_analysis.ipynb and execute all cells
+   Open textnalyser.ipynb and execute all cells
 
 4. Ensure dataset.csv is in the same folder
 
@@ -89,9 +89,9 @@ dataset.csv
 ## 📁 Project Structure
 
 Text-Analysis-ML/
-│── resume_extractor.py
+│── resume.py
 │── output.json
-│── sentiment_analysis.ipynb
+│── textanalyser.ipynb
 │── README.md
 
 ---
